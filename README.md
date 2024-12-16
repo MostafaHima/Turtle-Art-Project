@@ -20,4 +20,4 @@ This project uses Python's `turtle` and `colorsys` libraries to create a colorfu
 3. Run the script using a Python interpreter.
 
 ```bash
-python main.py
+python manage.py
